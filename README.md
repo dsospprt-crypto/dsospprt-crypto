@@ -85,7 +85,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/dsospprt-crypto/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/dsospprt-crypto/dsospprt-crypto/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
